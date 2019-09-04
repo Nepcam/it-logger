@@ -14,7 +14,7 @@ const TechItem = ({ tech }) => {
   )
 }
 
-TechItem.PropTypes = {
+TechItem.propTypes = {
   tech: PropTypes.object.isRequired,
 }
 
